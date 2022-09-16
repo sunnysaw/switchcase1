@@ -35,3 +35,6 @@ public class string4{
 
     }
 }
+/*
+this is a wrong code i need some help can anybody correct this code? / and explain why (days and valueof()) is showing complie error. 
+*/
